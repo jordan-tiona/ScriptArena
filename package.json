@@ -1,0 +1,19 @@
+{
+  "name": "script-arena",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TorA",
+  "license": "ISC",
+  "dependencies": {
+    "isolated-vm": "^3.3.4",
+    "ivm-inspect": "file:ivm-inspect"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.23",
+    "sleep": "^6.3.0"
+  }
+}

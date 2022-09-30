@@ -9,7 +9,7 @@
   "author": "TorA",
   "license": "ISC",
   "dependencies": {
-    "isolated-vm": "^3.3.4",
+    "isolated-vm": "^4.3.7",
     "ivm-inspect": "file:ivm-inspect"
   },
   "devDependencies": {
